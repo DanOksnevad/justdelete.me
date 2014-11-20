@@ -974,6 +974,17 @@
         ]
     },
 
+{
+        "name": "Dotcom-Monitor",
+        "url": "https://www.dotcom-monitor.com/contacts.aspx",
+        "difficulty": "medium",
+        "domains": [
+            "dotcom-monitor.com"
+        ],
+        "notes": "You need to remove the active Devices and Tasks in your account and email support@dotcom-monitor.com to delete your data.",
+        "email": "support@dotcom-monitor.com"
+    },
+
     {
         "name": "DOWN",
         "url": "https://bangwithfriends.zendesk.com/hc/en-us/articles/201441976-Deleting-Your-Account",
