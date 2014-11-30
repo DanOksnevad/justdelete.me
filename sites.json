@@ -1002,6 +1002,16 @@
             "dribbble.com"
         ]
     },
+    
+        {
+        "name": "Driven Coffee",
+        "url": "http://www.drivencoffee.com/customer-service",
+        "difficulty": "medium",
+        "notes": "To delete all of your online account information from the database, sign into the "My Account" section of the site and remove your shipping addresses, billing addresses & payment information.",
+        "domains": [
+            "drivencoffee.com"
+        ]
+    },
 
     {
         "name": "drone.io",
